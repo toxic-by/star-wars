@@ -1,0 +1,30 @@
+.header > ul li {
+    list-style: none;
+}
+.header a {
+    text-decoration: none;
+}
+.header {
+    margin-top: 20px;
+    align-items: center;
+}
+.header-nav,
+.header-logo {
+    margin: 0;
+}
+.header-logo {
+    font-size: 45px;
+}
+.header-logo a {
+    color: #fff;
+}
+
+.header-nav {
+    flex-grow: 1;
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+.header-nav a:hover {
+    color: rgb(0, 230, 153);
+}

@@ -1,0 +1,8 @@
+.item-details img {
+    width: 30%;
+    height: auto;
+    border-radius: 10px;
+}
+.item-details {
+    align-items: center;
+}
